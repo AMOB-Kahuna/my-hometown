@@ -91,13 +91,14 @@ h3{
 
 .card-img{
     border-radius: 50%;
+    height: 100px;
 }
 
 .guide{
     display: flex;
     flex-direction: row-reverse;
     justify-content: center;
-    width: 400px;
+    width: 500px;
     margin: 50px auto;
     background-color: #DDBEA9;
     padding: 20px 15px;
